@@ -3,3 +3,9 @@ function forLoop(array){
     array.push("I am"+ i +"strange loop");
     return array;
 }
+
+function whileLoop(n){
+  while(n>0){
+    
+  }
+}
